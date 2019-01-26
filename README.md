@@ -1,4 +1,4 @@
-# Single Page Application
+# williams-sonoma
 
 This is a demo project that uses Vanilla JS, Nodejs, Express and Handlebar for view.
 
@@ -11,7 +11,3 @@ This is a demo project that uses Vanilla JS, Nodejs, Express and Handlebar for v
 5.start the project by "npm start"
 
 6. go to the "http://localhost:5000/"
-
-
-
-# williams-sonoma
